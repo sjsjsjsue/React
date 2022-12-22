@@ -1,0 +1,7 @@
+/* common 은 golobal css!! 전역변수!! */
+:root{
+  --parimary-color:#0f171e;
+  --secondary-colo:#1a243f;
+  --font-primary:#fff;
+  --font-seondary:#79b8f3;
+}
